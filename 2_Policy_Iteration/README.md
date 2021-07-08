@@ -1,2 +1,3 @@
 This [tutorial](https://www.analyticsvidhya.com/blog/2018/09/reinforcement-learning-model-based-planning-dynamic-programming/) covers both value iteration and policy iteration
-algorithm using OpenAI gym environment. In this lesson, I have reproduced only policy iteration algorithm using FrozenLake-v0 environment from OpenAI gym environment. Here ROM folder contains some ATARI games environment like Breakout, MsPacman, etc. 
+algorithm using OpenAI gym environment. In this lesson, I have reproduced only policy iteration algorithm using FrozenLake-v0 environment from OpenAI gym environment. Here ROM folder contains some ATARI games environment like Breakout, MsPacman, etc. Before running the program make sure to install using command "pip install gym". To learn more about OpenAI gym use this [link](https://gym.openai.com/docs/).
+To execute the program use this command - "python Policy_Iteration.py"
