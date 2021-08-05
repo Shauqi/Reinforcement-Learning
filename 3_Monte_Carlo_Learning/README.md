@@ -1,0 +1,1 @@
+Monte Carlo method is one of the model free reinforcement learning method. I have experimented with the algorithm using code from [this website](https://www.analyticsvidhya.com/blog/2018/11/reinforcement-learning-introduction-monte-carlo-learning-openai-gym/).
