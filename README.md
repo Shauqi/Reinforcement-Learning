@@ -5,3 +5,5 @@ Tips on setting up OpenAI Gym, Pybullet, Mujoco Environment can be found in [Env
 
 1. [Value Iteration Algorithm](https://github.com/Shauqi/Reinforcement-Learning/tree/main/1_value_iteration)
 2. [Policy Iteration Algorithm](https://github.com/Shauqi/Reinforcement-Learning/tree/main/2_Policy_Iteration)
+3. [Monte Carlo Learning](https://github.com/Shauqi/Reinforcement-Learning/tree/main/3_Monte_Carlo_Learning)
+4. [Temporal Difference](https://github.com/Shauqi/Reinforcement-Learning/tree/main/3_Monte_Carlo_Learning)
